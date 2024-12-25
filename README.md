@@ -1,5 +1,5 @@
-# NAME:Rithish.R
-# REG.NO:24900403
+# NAME:PRADEEP.B
+# REG.NO:24900484
 # EXP.NO-7: SYNCHRONOUS-UP-COUNTER
 
  # AIM:
@@ -57,15 +57,35 @@ Run the simulation and observe the waveforms.
 # PROGRAM:
 
 module ex11(out,clk,rstn);
+
+
 input clk,rstn;
+
+
 output reg [3:0]out;
+
+
 always @ (posedge clk)
+
+
 begin
+
+
 if(!rstn)
+
+
 out<=0;
+
+
 else
+
+
 out <= out+1;
+
+
 end
+
+
 endmodule
 
  
