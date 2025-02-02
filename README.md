@@ -95,7 +95,8 @@ endmodule
 
 
 # RTL OUTPUT:
-![im2](https://github.com/user-attachments/assets/52ae83c4-5486-446c-b5a2-264c4ae96a56)
+![Uploading WhatsApp Image 2025-02-02 at 13.42.45_3d5f649e.jpg…]()
+
 
 
 # OUTPUT WAVEFORM:
